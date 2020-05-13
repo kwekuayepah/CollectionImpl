@@ -1,0 +1,14 @@
+/Users/abrahamayepah/Documents/Pluralsight/Collections/Collections/TopTenPops/bin/Debug/netcoreapp3.1/TopTenPops.deps.json
+/Users/abrahamayepah/Documents/Pluralsight/Collections/Collections/TopTenPops/bin/Debug/netcoreapp3.1/TopTenPops.runtimeconfig.json
+/Users/abrahamayepah/Documents/Pluralsight/Collections/Collections/TopTenPops/bin/Debug/netcoreapp3.1/TopTenPops.runtimeconfig.dev.json
+/Users/abrahamayepah/Documents/Pluralsight/Collections/Collections/TopTenPops/bin/Debug/netcoreapp3.1/TopTenPops.dll
+/Users/abrahamayepah/Documents/Pluralsight/Collections/Collections/TopTenPops/bin/Debug/netcoreapp3.1/TopTenPops.pdb
+/Users/abrahamayepah/Documents/Pluralsight/Collections/Collections/TopTenPops/obj/Debug/netcoreapp3.1/TopTenPops.csprojAssemblyReference.cache
+/Users/abrahamayepah/Documents/Pluralsight/Collections/Collections/TopTenPops/obj/Debug/netcoreapp3.1/TopTenPops.AssemblyInfoInputs.cache
+/Users/abrahamayepah/Documents/Pluralsight/Collections/Collections/TopTenPops/obj/Debug/netcoreapp3.1/TopTenPops.AssemblyInfo.cs
+/Users/abrahamayepah/Documents/Pluralsight/Collections/Collections/TopTenPops/obj/Debug/netcoreapp3.1/TopTenPops.dll
+/Users/abrahamayepah/Documents/Pluralsight/Collections/Collections/TopTenPops/obj/Debug/netcoreapp3.1/TopTenPops.pdb
+/Users/abrahamayepah/Documents/Pluralsight/Collections/Collections/TopTenPops/bin/Debug/netcoreapp3.1/Pop by Largest Final.csv
+/Users/abrahamayepah/Documents/Pluralsight/Collections/Collections/TopTenPops/bin/Debug/netcoreapp3.1/RestSharp.dll
+/Users/abrahamayepah/Documents/Pluralsight/Collections/Collections/TopTenPops/obj/Debug/netcoreapp3.1/TopTenPops.csproj.CopyComplete
+/Users/abrahamayepah/Documents/Pluralsight/Collections/Collections/TopTenPops/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayCollection", "ArrayCollection\ArrayCollection.csproj", "{C623EB98-52EE-4F96-946D-DB364A08B357}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopTenPops", "TopTenPops\TopTenPops.csproj", "{B91AD280-01E9-45F5-B95A-A754977E8A40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListCollection", "ListCollection\ListCollection.csproj", "{062FE0E1-B3A3-472B-AE79-B7A34BE029ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C623EB98-52EE-4F96-946D-DB364A08B357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C623EB98-52EE-4F96-946D-DB364A08B357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C623EB98-52EE-4F96-946D-DB364A08B357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C623EB98-52EE-4F96-946D-DB364A08B357}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B91AD280-01E9-45F5-B95A-A754977E8A40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B91AD280-01E9-45F5-B95A-A754977E8A40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B91AD280-01E9-45F5-B95A-A754977E8A40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B91AD280-01E9-45F5-B95A-A754977E8A40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{062FE0E1-B3A3-472B-AE79-B7A34BE029ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{062FE0E1-B3A3-472B-AE79-B7A34BE029ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{062FE0E1-B3A3-472B-AE79-B7A34BE029ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{062FE0E1-B3A3-472B-AE79-B7A34BE029ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

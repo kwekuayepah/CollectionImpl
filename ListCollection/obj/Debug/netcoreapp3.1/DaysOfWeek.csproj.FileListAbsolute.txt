@@ -1,0 +1,11 @@
+/Users/abrahamayepah/Documents/Pluralsight/Collections/Collections/DaysOfWeek/bin/Debug/netcoreapp3.1/DaysOfWeek.deps.json
+/Users/abrahamayepah/Documents/Pluralsight/Collections/Collections/DaysOfWeek/bin/Debug/netcoreapp3.1/DaysOfWeek.runtimeconfig.json
+/Users/abrahamayepah/Documents/Pluralsight/Collections/Collections/DaysOfWeek/bin/Debug/netcoreapp3.1/DaysOfWeek.runtimeconfig.dev.json
+/Users/abrahamayepah/Documents/Pluralsight/Collections/Collections/DaysOfWeek/bin/Debug/netcoreapp3.1/DaysOfWeek.dll
+/Users/abrahamayepah/Documents/Pluralsight/Collections/Collections/DaysOfWeek/bin/Debug/netcoreapp3.1/DaysOfWeek.pdb
+/Users/abrahamayepah/Documents/Pluralsight/Collections/Collections/DaysOfWeek/obj/Debug/netcoreapp3.1/DaysOfWeek.csprojAssemblyReference.cache
+/Users/abrahamayepah/Documents/Pluralsight/Collections/Collections/DaysOfWeek/obj/Debug/netcoreapp3.1/DaysOfWeek.AssemblyInfoInputs.cache
+/Users/abrahamayepah/Documents/Pluralsight/Collections/Collections/DaysOfWeek/obj/Debug/netcoreapp3.1/DaysOfWeek.AssemblyInfo.cs
+/Users/abrahamayepah/Documents/Pluralsight/Collections/Collections/DaysOfWeek/obj/Debug/netcoreapp3.1/DaysOfWeek.dll
+/Users/abrahamayepah/Documents/Pluralsight/Collections/Collections/DaysOfWeek/obj/Debug/netcoreapp3.1/DaysOfWeek.pdb
+/Users/abrahamayepah/Documents/Pluralsight/Collections/Collections/DaysOfWeek/bin/Debug/netcoreapp3.1/Pop by Largest Final.csv
