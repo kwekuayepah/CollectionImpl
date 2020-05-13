@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pCf/365+Yig1inHc7I4fq5Nv4qPj2iHMfF6jTvbKc6LX6QY97TRPZAxhRQ9GaWCs3Qyh/nWF9N8OB8Hu9HKwcw==",
+  "success": true,
+  "projectFilePath": "/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/TopTenPops/TopTenPops.csproj",
+  "expectedPackageFiles": [
+    "/Users/abrahamayepah/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/abrahamayepah/.nuget/packages/restsharp/106.11.3/restsharp.106.11.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "089ngixRvykKEnr7gh+9qlqPtk11oGxD+pjdU/EJnLYNJJk7fbtCwfMntsKcoUM/mlAOGlQJzGAYlqNtreZlKQ==",
+  "success": true,
+  "projectFilePath": "/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/ArrayCollection/ArrayCollection.csproj",
+  "expectedPackageFiles": [
+    "/Users/abrahamayepah/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/abrahamayepah/.nuget/packages/restsharp/106.11.3/restsharp.106.11.3.nupkg.sha512"
+  ],
+  "logs": []
+}

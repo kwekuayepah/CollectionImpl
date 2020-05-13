@@ -8,3 +8,16 @@
 /Users/abrahamayepah/Documents/Pluralsight/Collections/Collections/ArrayCollection/obj/Debug/netcoreapp3.1/ArrayCollection.AssemblyInfo.cs
 /Users/abrahamayepah/Documents/Pluralsight/Collections/Collections/ArrayCollection/obj/Debug/netcoreapp3.1/ArrayCollection.dll
 /Users/abrahamayepah/Documents/Pluralsight/Collections/Collections/ArrayCollection/obj/Debug/netcoreapp3.1/ArrayCollection.pdb
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/ArrayCollection/bin/Debug/netcoreapp3.1/ArrayCollection.deps.json
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/ArrayCollection/bin/Debug/netcoreapp3.1/ArrayCollection.runtimeconfig.json
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/ArrayCollection/bin/Debug/netcoreapp3.1/ArrayCollection.runtimeconfig.dev.json
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/ArrayCollection/bin/Debug/netcoreapp3.1/ArrayCollection.dll
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/ArrayCollection/bin/Debug/netcoreapp3.1/ArrayCollection.pdb
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/ArrayCollection/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/ArrayCollection/bin/Debug/netcoreapp3.1/RestSharp.dll
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/ArrayCollection/obj/Debug/netcoreapp3.1/ArrayCollection.csprojAssemblyReference.cache
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/ArrayCollection/obj/Debug/netcoreapp3.1/ArrayCollection.AssemblyInfoInputs.cache
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/ArrayCollection/obj/Debug/netcoreapp3.1/ArrayCollection.AssemblyInfo.cs
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/ArrayCollection/obj/Debug/netcoreapp3.1/ArrayCollection.csproj.CopyComplete
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/ArrayCollection/obj/Debug/netcoreapp3.1/ArrayCollection.dll
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/ArrayCollection/obj/Debug/netcoreapp3.1/ArrayCollection.pdb

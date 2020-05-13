@@ -9,3 +9,14 @@
 /Users/abrahamayepah/Documents/Pluralsight/Collections/Collections/ListCollection/obj/Debug/netcoreapp3.1/ListCollection.AssemblyInfo.cs
 /Users/abrahamayepah/Documents/Pluralsight/Collections/Collections/ListCollection/obj/Debug/netcoreapp3.1/ListCollection.dll
 /Users/abrahamayepah/Documents/Pluralsight/Collections/Collections/ListCollection/obj/Debug/netcoreapp3.1/ListCollection.pdb
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/ListCollection/bin/Debug/netcoreapp3.1/Pop by Largest Final.csv
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/ListCollection/bin/Debug/netcoreapp3.1/ListCollection.deps.json
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/ListCollection/bin/Debug/netcoreapp3.1/ListCollection.runtimeconfig.json
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/ListCollection/bin/Debug/netcoreapp3.1/ListCollection.runtimeconfig.dev.json
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/ListCollection/bin/Debug/netcoreapp3.1/ListCollection.dll
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/ListCollection/bin/Debug/netcoreapp3.1/ListCollection.pdb
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/ListCollection/obj/Debug/netcoreapp3.1/ListCollection.csprojAssemblyReference.cache
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/ListCollection/obj/Debug/netcoreapp3.1/ListCollection.AssemblyInfoInputs.cache
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/ListCollection/obj/Debug/netcoreapp3.1/ListCollection.AssemblyInfo.cs
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/ListCollection/obj/Debug/netcoreapp3.1/ListCollection.dll
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/ListCollection/obj/Debug/netcoreapp3.1/ListCollection.pdb
