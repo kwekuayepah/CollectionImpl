@@ -1,0 +1,14 @@
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/DictionaryCollection/bin/Debug/netcoreapp3.1/Pop by Largest Final.csv
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/DictionaryCollection/bin/Debug/netcoreapp3.1/DictionaryCollection.deps.json
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/DictionaryCollection/bin/Debug/netcoreapp3.1/DictionaryCollection.runtimeconfig.json
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/DictionaryCollection/bin/Debug/netcoreapp3.1/DictionaryCollection.runtimeconfig.dev.json
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/DictionaryCollection/bin/Debug/netcoreapp3.1/DictionaryCollection.dll
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/DictionaryCollection/bin/Debug/netcoreapp3.1/DictionaryCollection.pdb
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/DictionaryCollection/bin/Debug/netcoreapp3.1/ListCollection.dll
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/DictionaryCollection/bin/Debug/netcoreapp3.1/ListCollection.pdb
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/DictionaryCollection/obj/Debug/netcoreapp3.1/DictionaryCollection.csprojAssemblyReference.cache
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/DictionaryCollection/obj/Debug/netcoreapp3.1/DictionaryCollection.AssemblyInfoInputs.cache
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/DictionaryCollection/obj/Debug/netcoreapp3.1/DictionaryCollection.AssemblyInfo.cs
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/DictionaryCollection/obj/Debug/netcoreapp3.1/DictionaryCollection.csproj.CopyComplete
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/DictionaryCollection/obj/Debug/netcoreapp3.1/DictionaryCollection.dll
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/DictionaryCollection/obj/Debug/netcoreapp3.1/DictionaryCollection.pdb

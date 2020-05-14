@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopTenPops", "TopTenPops\To
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListCollection", "ListCollection\ListCollection.csproj", "{062FE0E1-B3A3-472B-AE79-B7A34BE029ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryCollection", "DictionaryCollection\DictionaryCollection.csproj", "{30FEF09E-B0EA-4A74-85AD-46E45E8B61B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{062FE0E1-B3A3-472B-AE79-B7A34BE029ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{062FE0E1-B3A3-472B-AE79-B7A34BE029ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{062FE0E1-B3A3-472B-AE79-B7A34BE029ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30FEF09E-B0EA-4A74-85AD-46E45E8B61B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30FEF09E-B0EA-4A74-85AD-46E45E8B61B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30FEF09E-B0EA-4A74-85AD-46E45E8B61B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30FEF09E-B0EA-4A74-85AD-46E45E8B61B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

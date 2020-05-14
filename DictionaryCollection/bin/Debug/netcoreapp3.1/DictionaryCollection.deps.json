@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DictionaryCollection/1.0.0": {
+        "dependencies": {
+          "ListCollection": "1.0.0"
+        },
+        "runtime": {
+          "DictionaryCollection.dll": {}
+        }
+      },
+      "ListCollection/1.0.0": {
+        "runtime": {
+          "ListCollection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DictionaryCollection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ListCollection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
