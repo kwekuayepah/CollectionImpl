@@ -12,6 +12,7 @@ namespace DaysOfWeek
             CsvReader reader = new CsvReader(filePath);
 
             List<Country> countries = reader.ReadAllCountries();
+            reader.RemoveCommaCountries(countries);
             
             Console.Write("Enter the no. of countries to display> ");
             bool inputIsInt = int.TryParse(Console.ReadLine(), out int userInput);
@@ -29,10 +30,9 @@ namespace DaysOfWeek
             //     Console.WriteLine($"{PopulationFormatter.FormatPopulation(country.Population).PadLeft(15)}: {country.Name}");
             // }
 
-            for (int i = countries.Count - 1; i >= 0; i--)
+            for (int i = 0; i < countries.Count; i++)
             {
-                int displayIndex = countries.Count - 1 - i;
-                if (displayIndex > 0 && (displayIndex % maxToDisplay == 0))
+                if (i > 0 && (i % maxToDisplay == 0))
                 {
                     Console.WriteLine("Hit return to continue, anything else to quit");
                     if(Console.ReadLine() != "")
