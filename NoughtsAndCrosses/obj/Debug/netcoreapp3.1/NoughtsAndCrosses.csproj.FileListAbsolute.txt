@@ -1,0 +1,10 @@
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/NoughtsAndCrosses/bin/Debug/netcoreapp3.1/NoughtsAndCrosses.deps.json
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/NoughtsAndCrosses/bin/Debug/netcoreapp3.1/NoughtsAndCrosses.runtimeconfig.json
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/NoughtsAndCrosses/bin/Debug/netcoreapp3.1/NoughtsAndCrosses.runtimeconfig.dev.json
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/NoughtsAndCrosses/bin/Debug/netcoreapp3.1/NoughtsAndCrosses.dll
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/NoughtsAndCrosses/bin/Debug/netcoreapp3.1/NoughtsAndCrosses.pdb
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/NoughtsAndCrosses/obj/Debug/netcoreapp3.1/NoughtsAndCrosses.csprojAssemblyReference.cache
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/NoughtsAndCrosses/obj/Debug/netcoreapp3.1/NoughtsAndCrosses.AssemblyInfoInputs.cache
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/NoughtsAndCrosses/obj/Debug/netcoreapp3.1/NoughtsAndCrosses.AssemblyInfo.cs
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/NoughtsAndCrosses/obj/Debug/netcoreapp3.1/NoughtsAndCrosses.dll
+/Users/abrahamayepah/Documents/Pluralsight/CollectionImpl/NoughtsAndCrosses/obj/Debug/netcoreapp3.1/NoughtsAndCrosses.pdb
